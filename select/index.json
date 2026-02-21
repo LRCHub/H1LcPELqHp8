@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BANKA",
+  "base_artist": "illion",
+  "createdAt": "2026-02-21T09:27:40.415952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BANKA NODI",
+      "artist": "Fakira",
+      "has_synced": false,
+      "path": "select/01_BANKA_NODI_Fakira.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life Style (feat. Banka)",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/02_Life_Style_(feat._Banka)_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Smruti Anka Banka Nai",
+      "artist": "Chittaranjan Tripathy",
+      "has_synced": false,
+      "path": "select/03_Smruti_Anka_Banka_Nai_Chittaranjan_Tripathy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aha Oi Anka Banka Je Path",
+      "artist": "Supratik Das",
+      "has_synced": true,
+      "path": "select/04_Aha_Oi_Anka_Banka_Je_Path_Supratik_Das.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aha Oi Anka Banka Je Path 2012",
+      "artist": "Supratik Das",
+      "has_synced": true,
+      "path": "select/05_Aha_Oi_Anka_Banka_Je_Path_2012_Supratik_Das.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Banka Chhurir Mato",
+      "artist": "Firoza Begum",
+      "has_synced": true,
+      "path": "select/06_Banka_Chhurir_Mato_Firoza_Begum.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Banka Chhurir Matan",
+      "artist": "Firoza Begum",
+      "has_synced": true,
+      "path": "select/07_Banka_Chhurir_Matan_Firoza_Begum.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lifestyle (feat. Banka)",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/08_Lifestyle_(feat._Banka)_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nishiraat Banka Chand Akashe",
+      "artist": "Geeta Dutt",
+      "has_synced": true,
+      "path": "select/09_Nishiraat_Banka_Chand_Akashe_Geeta_Dutt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lifestyle (feat. Banka)",
+      "artist": "Sidhu Moosewala",
+      "has_synced": false,
+      "path": "select/10_Lifestyle_(feat._Banka)_Sidhu_Moosewala.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BANKA",
+      "artist": "illion",
+      "has_synced": true,
+      "path": "select/11_BANKA_illion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BANKA",
+      "artist": "illion",
+      "has_synced": false,
+      "path": "select/12_BANKA_illion.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mustang (feat. Banka)",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/13_Mustang_(feat._Banka)_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BANKA BANKA",
+      "artist": "Lia Larsson",
+      "has_synced": true,
+      "path": "select/14_BANKA_BANKA_Lia_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nishirat Banka Chand Akashe",
+      "artist": "Sutapa Basu",
+      "has_synced": false,
+      "path": "select/15_Nishirat_Banka_Chand_Akashe_Sutapa_Basu.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Big Banka Man",
+      "artist": "Slim Thug",
+      "has_synced": false,
+      "path": "select/16_Big_Banka_Man_Slim_Thug.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BANKA",
+      "artist": "illion",
+      "has_synced": false,
+      "path": "select/pl_01_BANKA_illion.txt"
+    }
+  ]
+}
